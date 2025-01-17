@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @soumnemishra  
+- 👀 I’m interested in artificial intelligence, data science, machine learning, and cybersecurity.  
+- 🌱 I’m currently learning advanced machine learning techniques and working on brain tumor classification projects.  
+- 💞️ I’m looking to collaborate on projects related to healthcare analytics, AI in medicine, predictive modeling, and cybersecurity applications.  
+- 📫 How to reach me: [Email](mishrasoumen234@gmail.com) | [LinkedIn](https://www.linkedin.com/in/soumenmishra4/) | [GitHub](https://github.com/soumnemishra)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love coding, gaming, exploring AI tools, and diving into cybersecurity challenges!  
